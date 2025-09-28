@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+face_recognition
+python-dotenv
+google-cloud-firestore
